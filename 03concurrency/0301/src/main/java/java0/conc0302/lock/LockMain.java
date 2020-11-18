@@ -1,6 +1,9 @@
 
 package java0.conc0302.lock;
 
+/**
+ * 死锁：两个线程都持有对方需要的锁
+ */
 public class LockMain {
 
     public static void main(String[] args) {
